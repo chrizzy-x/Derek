@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.env.*
+
+# Byte-compiled / optimized
+*.pyc
+
+# Environments
+.env
+.venv
+venv/
+
+# Distribution
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Mac
+.DS_Store

@@ -1,0 +1,20 @@
+{
+  "mode": "paper",
+  "pair": "BTC-PERP",
+  "connector_a": "mock_a",
+  "connector_b": "mock_b",
+  "order_size_usd": 100,
+  "min_spread_pct": 0.002,
+  "take_profit_spread_pct": 0.0005,
+  "max_exposure_usd": 1000,
+  "starting_balances": {
+    "mock_a": 100.0,
+    "mock_b": 100.0
+  },
+  "fee_pct": 0.00075,
+  "slippage_pct": 0.0005,
+  "cooldown_seconds": 60,
+  "log_path": "trades.csv",
+  "historical_csv_a": "",
+  "historical_csv_b": ""
+}
